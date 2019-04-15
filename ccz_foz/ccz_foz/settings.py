@@ -92,10 +92,10 @@ DATABASES = {
         },
         'NAME': 'vigilancia_integrada',
         # 'NAME': os.path.join(BASE_DIR, 'mydb'),
-        'USER': 'cmt',
-        'PASSWORD': '#cmtlab100117',
-        'HOST': 'cmt.hmcc.com.br',
-        'PORT': '37732',  # 8000 is default
+        'USER': 'ccz',
+        'PASSWORD': 'ccz410830',
+        'HOST': 'localhost',
+        'PORT': '',  # 8000 is default
         'SCHEMAS': 'ccz',
     }
 }
